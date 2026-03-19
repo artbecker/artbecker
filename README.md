@@ -1,6 +1,6 @@
 # Hey guys, I'm Arthur 👋
 
-I'm a **Junior Web Developer** at the beginning of my professional journey, currently focused on **Front-end development**, while training to become a **Full-stack Web Developer** through the TripleTen Web Development Bootcamp.
+I'm a **Junior Web Developer** at the beginning of my professional journey, training to become a **Full-stack Web Developer** through the TripleTen Web Development Bootcamp.
 
 I have hands-on experience building **responsive and well-structured web applications** using **HTML, CSS, JavaScript, and React**, including projects that consume external APIs and follow best practices for code organization and usability.
 
@@ -9,9 +9,10 @@ I have hands-on experience building **responsive and well-structured web applica
 ## 👨‍💻 Technical Skills
 
 - **Languages:** JavaScript (Vanilla JS), HTML5, CSS3  
-- **Front-end:** React, Responsive Design, Flexbox, Grid  
+- **Front-end:** React, Responsive Design, Flexbox, Grid
+- **Back-end:** Node JS, Express  
 - **Tools & Workflow:** Git, GitHub, VS Code, NPM  
-- **Concepts:** API consumption, component-based architecture, clean and readable code
+- **Concepts:** API REST, component-based architecture, clean and readable code
 
 ---
 
@@ -26,7 +27,7 @@ Additionally, I have experience with **digital marketing, automation, and data a
 
 ## 🚀 What I'm Looking For
 
-I'm currently seeking opportunities as a **Junior Web Developer / Front-end Developer**, preferably in **collaborative environments** where I can:
+I'm currently seeking opportunities as a **Junior Web Developer**, preferably in **collaborative environments** where I can:
 
 - Learn from more experienced developers  
 - Grow technically and professionally  
