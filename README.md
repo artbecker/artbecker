@@ -8,7 +8,7 @@ I have hands-on experience building **responsive and well-structured web applica
 
 ## 👨‍💻 Technical Skills
 
-- **Languages:** JavaScript (Vanilla JS), HTML5, CSS3  
+- **Languages:** JavaScript, HTML5, CSS3  
 - **Front-end:** React, Responsive Design, Flexbox, Grid
 - **Back-end:** Node JS, Express  
 - **Tools & Workflow:** Git, GitHub, VS Code, NPM  
