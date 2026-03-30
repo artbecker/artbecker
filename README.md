@@ -2,7 +2,7 @@
 
 I'm a **Junior Web Developer** at the beginning of my professional journey, training to become a **Full-stack Web Developer** through the TripleTen Web Development Bootcamp.
 
-I have hands-on experience building **responsive and well-structured web applications** using **HTML, CSS, JavaScript, and React**, including projects that consume external APIs and follow best practices for code organization and usability.
+I have hands-on experience building **responsive and well-structured web applications** using **HTML, CSS, JavaScript, React, Node.js and Express.js**, including projects that consume external APIs and follow best practices for code organization and usability.
 
 ---
 
@@ -48,6 +48,10 @@ Here are some projects I've worked on during my learning journey:
 - **Around The U.S. (React Version)**  
   Same project rebuilt using React and component-based architecture  
   🔗 https://github.com/artbecker/web_project_around_react  
+
+- **FIFA World Cup Simulator (Made with Claude as companion)**  
+  World cup simulator with team standings and bracket formation, made using Claude as a companion and TailwindCSS tutor.  
+  🔗 https://github.com/artbecker/project_world_cup_simulator
 
 More projects available on my GitHub 👇
 
